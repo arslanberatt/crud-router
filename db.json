@@ -1,0 +1,53 @@
+{
+  "homes": [
+    {
+      "id": 1,
+      "title": "Cozy Downtown Loft",
+      "description": "Modern loft in the heart of downtown with stunning city views. Perfect for business travelers and couples.",
+      "pricePerNight": 120,
+      "location": "Istanbul, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1505692794403-34d4982f88aa",
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "amenities": ["WiFi", "Kitchen", "Air Conditioning", "Workspace"]
+    },
+    {
+      "id": 2,
+      "title": "Beachfront Villa",
+      "description": "Luxurious villa with direct beach access and panoramic sea views. Perfect for large groups and families.",
+      "pricePerNight": 350,
+      "location": "Antalya, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6",
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Pool",
+        "Parking",
+        "Beach Access",
+        "Garden"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mountain Cabin Retreat",
+      "description": "Charming wooden cabin surrounded by nature. Perfect for a peaceful getaway in the mountains.",
+      "pricePerNight": 90,
+      "location": "Bolu, Türkiye",
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000",
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "amenities": [
+        "WiFi",
+        "Kitchen",
+        "Fireplace",
+        "Mountain View",
+        "Hiking Trails"
+      ]
+    }
+  ]
+}
